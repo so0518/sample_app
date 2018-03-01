@@ -57,8 +57,11 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 #deviseの追加にて追加項目
 # gem 'rails'
 # gem 'bootstrap-sass'
+
+gem 'jquery-rails'
 gem 'sprockets'
 gem 'devise'
+
 #deviseの追加にて追加項目終了
 
 
